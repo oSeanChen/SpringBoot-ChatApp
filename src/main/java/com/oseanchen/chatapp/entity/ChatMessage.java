@@ -1,8 +1,6 @@
-package com.oseanchen.chatapp.controller;
+package com.oseanchen.chatapp.entity;
 
 import lombok.*;
-
-import java.awt.*;
 @Getter
 @Setter
 @AllArgsConstructor

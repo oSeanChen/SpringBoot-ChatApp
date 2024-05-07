@@ -1,4 +1,4 @@
-package com.oseanchen.chatapp.controller;
+package com.oseanchen.chatapp.entity;
 
 public enum MessageType {
 
